@@ -1,0 +1,5 @@
+python-aiosignal source: file-without-copyright-information
+python-aiosignal source: no-debian-changes
+python-aiosignal source: source-contains-prebuilt-windows-binary
+python-aiosignal source: source-is-missing
+python-aiosignal source: source-package-encodes-python-version
